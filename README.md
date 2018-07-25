@@ -27,3 +27,9 @@ As these elements will vary even if the element has not been changed. If you don
 
 The _init.sh_ and _update.sh_ scripts are provided as examples of how you can use this program to backup to a git repo. You'll need to modify _init.sh_ to contain the details of your repository, and also provide the git_dsa file needed to connect to your repository.
 
+## How can I contribute?
+Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## What licence is this released under?
+This is released under a modified version of the BSD licence.
+Please see [LICENCE.md](https://github.com/PaddyPowerBetfair/standards/blob/master/LICENCE.md).
